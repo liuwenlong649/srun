@@ -68,7 +68,7 @@ $ srun info
 ```
 
 ## Update Log
-
+ 
 2020.12.18
 
 - 自动构建切换到Github Actions
